@@ -3,6 +3,6 @@
 
 该项目是学习项目https://github.com/CatImmortal/FlappyBirdFromGDT
 -
-自己按照教程做了一遍，然后加了一个暂停按钮。
+自己按照教程做了一遍，然后加了一个暂停按钮。同时也配置好了AssetBundle配置
 
 # 自己的学习思考见文章http://t.csdn.cn/eRtIe
