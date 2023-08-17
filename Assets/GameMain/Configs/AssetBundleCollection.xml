@@ -12,7 +12,6 @@
       <AssetBundle Name="Textures" LoadType="0" Packed="True" />
       <AssetBundle Name="UI/UIForms" LoadType="0" Packed="True" />
       <AssetBundle Name="UI/UISounds" LoadType="0" Packed="True" />
-      <AssetBundle Name="UI/UISprites" LoadType="0" Packed="True" />
     </AssetBundles>
     <Assets>
       <Asset Guid="025c28edb883fe34283d94917c442d4a" AssetBundleName="Entities" />
@@ -26,10 +25,8 @@
       <Asset Guid="29c0acdbed498944ba163053d0713002" AssetBundleName="Animation" />
       <Asset Guid="2eed8aed028989b47af6868ca83d0951" AssetBundleName="Entities" />
       <Asset Guid="41c0175edc7f9a642bf9cff29fc395b8" AssetBundleName="Animation" />
-      <Asset Guid="43cbf03fbb4d5d84f80003d2c2dd34f2" AssetBundleName="UI/UISprites" />
       <Asset Guid="546e2733144f0c840b96f13f68f739e4" AssetBundleName="DataTables" />
       <Asset Guid="568a8fc159f7c5a4499aaf8ec228c046" AssetBundleName="UI/UIForms" />
-      <Asset Guid="58fed96ec825b4449a9911dc7be4c17a" AssetBundleName="UI/UISprites" />
       <Asset Guid="703996275cba25b45a34f29191758fdf" AssetBundleName="Scenes" />
       <Asset Guid="72a25bac5b240804d856fe49a449d375" AssetBundleName="Configs" />
       <Asset Guid="72de6f1ec750c294c92f5712abff1cdb" AssetBundleName="Configs" />
@@ -44,7 +41,6 @@
       <Asset Guid="9dea181149d35be4d9daf9adfd65fd29" AssetBundleName="Textures" />
       <Asset Guid="9f756bcde5fdb8242a2e28a2a95dcd76" AssetBundleName="Sounds" />
       <Asset Guid="a4881ea743fe71744b0f16ee1bbc0a13" AssetBundleName="Music" />
-      <Asset Guid="b13a066d7462a5e4ebab9fdbad592cfe" AssetBundleName="UI/UISprites" />
       <Asset Guid="b90f8291121232a43b6335bc96591399" AssetBundleName="Entities" />
       <Asset Guid="bbe2caeb7d1de7d4cbf65a2d7007759a" AssetBundleName="DataTables" />
       <Asset Guid="c1b29814cb1cc8a41aafbde4fec5ac7d" AssetBundleName="Sounds" />
