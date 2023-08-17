@@ -3,7 +3,7 @@
 
 ## unity版本2022.3.1LST
 
-该项目是学习项目https://github.com/CatImmortal/FlappyBirdFromGDT 制作的
+该项目是学习项目https://github.com/CatImmortal/FlappyBirdFromGDT 制作的，以及该项目“自然妙有猫仙人”的教程http://t.csdn.cn/DkLst
 -
 自己按照教程做了一遍，然后加了一个暂停按钮。同时也配置好了AssetBundle配置
 
